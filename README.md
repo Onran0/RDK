@@ -21,6 +21,6 @@
 - ProGuard (ProGuard execute helper)
 - Builder (Compile your .java sources to .jar and obfuscate using JarCompiller and ProGuard)
 ## Documentation
-Docs about RDK
+Docs about RDK (In process)
 # Where can i download?
 RDK 1.0 is currently under development. Very soon you will be able to download it.
