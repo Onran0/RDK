@@ -23,3 +23,4 @@
 ## Documentation
 Docs about RDK
 # Where can i download?
+RDK 1.0 is currently under development. Very soon you will be able to download it.
